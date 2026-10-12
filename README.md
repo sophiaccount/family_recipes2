@@ -1,4 +1,5 @@
 # Hegerty's Clan secret recipes
+# Hegerty's Family secret formula
 
 Set of recipes as given by my grandma.
 

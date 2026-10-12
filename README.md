@@ -1,4 +1,4 @@
-# Hegerty's Family secret recipes
+# Hegerty's Family secret formula
 
 Set of recipes as given by my grandma.
 
